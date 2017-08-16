@@ -48,7 +48,7 @@
                     }
                 }
             });
-        }).trigger("resize");
+        });
         return this;
     };
     $.fn.lowFloat.defaultOptions = {
