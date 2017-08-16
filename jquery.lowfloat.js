@@ -30,6 +30,7 @@
         });
         var floaters = this;
         $(window).on("resize", function () {
+            console.log('trigger resize');
             floaters.each(function () {
                 var floater = $(this);
                 var spacer = floater.prev(".lowFloat-spacer");
