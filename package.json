@@ -1,7 +1,7 @@
 {
-  "name": "",
-  "description": "",
-  "version": "0.1.0",
+  "name": "lowFloat",
+  "description": "Fork of lowFloat by gilly3 with additional package.JSON",
+  "version": "v1.0.2",
   "dependencies": {},
   "devDependencies": {}
 }
